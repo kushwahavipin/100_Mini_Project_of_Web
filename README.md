@@ -10,6 +10,7 @@ Explore each project individually and view live demos to see them in action:
 
 |  #  | Project                                                                | Live Demo                                                |
 | :-: | ---------------------------------------------------------------------- | -------------------------------------------------------- |
-| 001 | [Expanding Cards](001-expanding%20cards)                               | [Live Demo](https://codepen.io/Udaicoders/pen/JjqQxvb)  |
-| 002 | [Progress Steps](002-progress%20steps)                                 | [Live Demo](https://codepen.io/Udaicoders/pen/MWdMLMw)  |
-| 003 | [Rotating Navigation Animation](003-rotating%20navigation)             | [Live Demo](https://codepen.io/Udaicoders/pen/BaegMgM)  |
+| 001 | [Expanding Cards](001-expanding%20cards)                               | [Live Demo](https://codepen.io/Udaicoders/full/JjqQxvb)  |
+| 002 | [Progress Steps](002-progress%20steps)                                 | [Live Demo](https://codepen.io/Udaicoders/full/MWdMLMw)  |
+| 003 | [Rotating Navigation Animation](003-rotating%20navigation)             | [Live Demo](https://codepen.io/Udaicoders/full/BaegMgM)  |
+| 004 | [Hidden Search Widget](004-hidden%20search%20widget)                   | [Live Demo](https://codepen.io/Udaicoders/full/WNBqqGe)  |
