@@ -15,3 +15,4 @@ Explore each project individually and view live demos to see them in action:
 | 003 | [Rotating Navigation Animation](003-rotating-navigation)             | [Live Demo](https://codepen.io/Udaicoders/full/BaegMgM)  |
 | 004 | [Hidden Search Widget](004-hidden-search-widget)                   | [Live Demo](https://codepen.io/Udaicoders/full/WNBqqGe)  |
 | 005 | [Blurry loading](005-blurry-loading)                   | [Live Demo](https://codepen.io/Udaicoders/full/GRbKdpL)  |
+| 006 | [Scroll Animation](006-scroll-ani ation)                   | [Live Demo](https://codepen.io/Udaicoders/full/BagBVXx)  |
