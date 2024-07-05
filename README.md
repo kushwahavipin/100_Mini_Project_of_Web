@@ -14,3 +14,4 @@ Explore each project individually and view live demos to see them in action:
 | 002 | [Progress Steps](002-progress-steps)                                 | [Live Demo](https://codepen.io/Udaicoders/full/MWdMLMw)  |
 | 003 | [Rotating Navigation Animation](003-rotating-navigation)             | [Live Demo](https://codepen.io/Udaicoders/full/BaegMgM)  |
 | 004 | [Hidden Search Widget](004-hidden-search-widget)                   | [Live Demo](https://codepen.io/Udaicoders/full/WNBqqGe)  |
+| 005 | [Blurry loading](005-blurry-loading)                   | [Live Demo](https://codepen.io/Udaicoders/full/GRbKdpL)  |
