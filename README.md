@@ -16,6 +16,9 @@ Explore each project individually and view live demos to see them in action:
 | 004 | [Hidden Search Widget](004-hidden-search-widget)                   | [Live Demo](https://codepen.io/Udaicoders/full/WNBqqGe)  |
 | 005 | [Blurry loading](005-blurry-loading)                   | [Live Demo](https://codepen.io/Udaicoders/full/GRbKdpL)  |
 | 006 | [Scroll Animation](006-scroll-animation)                   | [Live Demo](https://codepen.io/Udaicoders/full/BagBVXx)  |
+| 007 | [Split Landing Page](007-split-landing-page)                   | [Live Demo](#)  |
+| 008 | [Form Wave Animation](008-form-wave-animation)                   | [Live Demo](#)  |
+| 009 | [Event KeyCodes](009-event-KeyCodes)                   | [Live Demo](#)  |
 
 
 
