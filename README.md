@@ -10,16 +10,16 @@ Explore each project individually and view live demos to see them in action:
 
 |  #  | Project                                                                | Live Demo                                                |
 | :-: | ---------------------------------------------------------------------- | -------------------------------------------------------- |
-| 001 | [Expanding Cards](001-expanding-cards)                               | [Live Demo](https://codepen.io/Udaicoders/full/JjqQxvb)  |
-| 002 | [Progress Steps](002-progress-steps)                                 | [Live Demo](https://codepen.io/Udaicoders/full/MWdMLMw)  |
-| 003 | [Rotating Navigation Animation](003-rotating-navigation)             | [Live Demo](https://codepen.io/Udaicoders/full/BaegMgM)  |
-| 004 | [Hidden Search Widget](004-hidden-search-widget)                   | [Live Demo](https://codepen.io/Udaicoders/full/WNBqqGe)  |
-| 005 | [Blurry loading](005-blurry-loading)                   | [Live Demo](https://codepen.io/Udaicoders/full/GRbKdpL)  |
-| 006 | [Scroll Animation](006-scroll-animation)                   | [Live Demo](https://codepen.io/Udaicoders/full/BagBVXx)  |
-| 007 | [Split Landing Page](007-split-landing-page)                   | [Live Demo](#)  |
-| 008 | [Form Wave Animation](008-form-wave-animation)                   | [Live Demo](#)  |
+| 001 | [Expanding Cards](001-expanding-cards)                               | [Live Demo](https://001-expanding-cards.netlify.app/)  |
+| 002 | [Progress Steps](002-progress-steps)                                 | [Live Demo](https://002-progress-steps.netlify.app/)  |
+| 003 | [Rotating Navigation Animation](003-rotating-navigation)             | [Live Demo](https://003-rotating-navigation.netlify.app/)  |
+| 004 | [Hidden Search Widget](004-hidden-search-widget)                   | [Live Demo](https://004-hidden-search-widget.netlify.app/)  |
+| 005 | [Blurry loading](005-blurry-loading)                   | [Live Demo](https://005-blurry-loading.netlify.app/)  |
+| 006 | [Scroll Animation](006-scroll-animation)                   | [Live Demo](https://006-scroll-animation.netlify.app/)  |
+| 007 | [Split Landing Page](007-split-landing-page)                   | [Live Demo](https://007-split-landing-page.netlify.app/)  |
+| 008 | [Form Wave Animation](008-form-wave-animation)                   | [Live Demo](https://008-form-wave-animation.netlify.app/)  |
 
-| 010 | [Magic Slider](010-Magic-Slider)                   | [Live Demo](#)  |
+| 010 | [Magic Slider](010-Magic-Slider)                   | [Live Demo](https://010-magic-slider.netlify.app/)  |
 
 
 
