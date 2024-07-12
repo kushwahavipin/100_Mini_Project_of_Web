@@ -18,7 +18,8 @@ Explore each project individually and view live demos to see them in action:
 | 006 | [Scroll Animation](006-scroll-animation)                   | [Live Demo](https://codepen.io/Udaicoders/full/BagBVXx)  |
 | 007 | [Split Landing Page](007-split-landing-page)                   | [Live Demo](#)  |
 | 008 | [Form Wave Animation](008-form-wave-animation)                   | [Live Demo](#)  |
-| 009 | [Event KeyCodes](009-event-KeyCodes)                   | [Live Demo](#)  |
+
+| 010 | [Magic Slider](010-Magic-Slider)                   | [Live Demo](#)  |
 
 
 
