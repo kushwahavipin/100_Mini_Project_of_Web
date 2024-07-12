@@ -18,7 +18,7 @@ Explore each project individually and view live demos to see them in action:
 | 006 | [Scroll Animation](006-scroll-animation)                   | [Live Demo](https://006-scroll-animation.netlify.app/)  |
 | 007 | [Split Landing Page](007-split-landing-page)                   | [Live Demo](https://007-split-landing-page.netlify.app/)  |
 | 008 | [Form Wave Animation](008-form-wave-animation)                   | [Live Demo](https://008-form-wave-animation.netlify.app/)  |
-
+| 009 | [Event KeyCodes](009-event-KeyCodes)                   | [Live Demo](https://009-event-keycodes.netlify.app/)  |
 | 010 | [Magic Slider](010-Magic-Slider)                   | [Live Demo](https://010-magic-slider.netlify.app/)  |
 
 
