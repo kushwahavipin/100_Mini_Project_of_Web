@@ -20,6 +20,7 @@ Explore each project individually and view live demos to see them in action:
 | 008 | [Form Wave Animation](008-form-wave-animation)                   | [Live Demo](https://008-form-wave-animation.netlify.app/)  |
 | 009 | [Event KeyCodes](009-event-KeyCodes)                   | [Live Demo](https://009-event-keycodes.netlify.app/)  |
 | 010 | [Magic Slider](010-Magic-Slider)                   | [Live Demo](https://010-magic-slider.netlify.app/)  |
+| 011 | [Animation Naavigation](011-animation-navigation)                   | [Live Demo](https://010-magic-slider.netlify.app/)  |
 
 
 
