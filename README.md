@@ -21,7 +21,9 @@ Explore each project individually and view live demos to see them in action:
 | 009 | [Event KeyCodes](009-event-KeyCodes)                   | [Live Demo](https://009-event-keycodes.netlify.app/)  |
 | 010 | [Magic Slider](010-Magic-Slider)                   | [Live Demo](https://010-magic-slider.netlify.app/)  |
 | 011 | [Animation Naavigation](011-animation-navigation)                   | [Live Demo](https://010-magic-slider.netlify.app/)  |
-| 012 | [Background Slider](012-background-slider)                   | [Live Demo](https://010-magic-slider.netlify.app/)  |
+| 012 | [Background Slider](012-background-slider)                   | [Live Demo](https://012-background-slider.netlify.app/)  |
+| 013 | [Theme Clock](013-theme-clock)                   | [Live Demo](https://013-theme-clock.netlify.app/)  |
+
 
 
 
