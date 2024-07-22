@@ -23,6 +23,10 @@ Explore each project individually and view live demos to see them in action:
 | 011 | [Animation Naavigation](011-animation-navigation)                   | [Live Demo](https://010-magic-slider.netlify.app/)  |
 | 012 | [Background Slider](012-background-slider)                   | [Live Demo](https://012-background-slider.netlify.app/)  |
 | 013 | [Theme Clock](013-theme-clock)                   | [Live Demo](https://013-theme-clock.netlify.app/)  |
+| 014 | [Theme Clock](014-drawing-app)                   | [Live Demo](https://014-drawing-app.netlify.app/)  |
+| 015 | [Theme Clock](015-kinetic-loader)                   | [Live Demo](https://015-kinetic-loader.netlify.app/)  |
+| 016 | [Theme Clock](016-content-placeholder)                   | [Live Demo](https://016-content-placeholder.netlify.app/)  |
+| 017 | [Theme Clock](017-sticky-navigation)                   | [Live Demo](https://017-sticky-navigation.netlify.app/)  |
 
 
 
