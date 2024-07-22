@@ -27,7 +27,7 @@ Explore each project individually and view live demos to see them in action:
 | 015 | [Theme Clock](015-kinetic-loader)                   | [Live Demo](https://015-kinetic-loader.netlify.app/)  |
 | 016 | [Theme Clock](016-content-placeholder)                   | [Live Demo](https://016-content-placeholder.netlify.app/)  |
 | 017 | [Theme Clock](017-sticky-navigation)                   | [Live Demo](https://017-sticky-navigation.netlify.app/)  |
-
+| 018 | [Theme Clock](018-arithmetic-game)                   | [Live Demo](https://018-arithmetic-game.netlify.app/)  |
 
 
 
