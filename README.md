@@ -28,6 +28,8 @@ Explore each project individually and view live demos to see them in action:
 | 016 | [Content Placeholder](016-content-placeholder)                   | [Live Demo](https://016-content-placeholder.netlify.app/)  |
 | 017 | [Sticky Navigation](017-sticky-navigation)                   | [Live Demo](https://017-sticky-navigation.netlify.app/)  |
 | 018 | [Arithmetic Game](018-arithmetic-game)                   | [Live Demo](https://018-arithmetic-game.netlify.app/)  |
+| 019 | [Double Click Heart](019-double-click-heart)                   | [Live Demo](https://019-double-click-heart.netlify.app/)  |
+
 
 
 
