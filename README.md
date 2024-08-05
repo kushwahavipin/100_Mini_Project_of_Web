@@ -30,6 +30,7 @@ Explore each project individually and view live demos to see them in action:
 | 018 | [Arithmetic Game](018-arithmetic-game)                   | [Live Demo](https://018-arithmetic-game.netlify.app/)  |
 | 019 | [Double Click Heart](019-double-click-heart)                   | [Live Demo](https://019-double-click-heart.netlify.app/)  |
 | 020 | [Password Generator](020-password-generator)                   | [Live Demo](https://020-password-generator.netlify.app/)  |
+| 021 | [Note App](021-notes-app)                   | [Live Demo](https://021-notes-app.netlify.app/)  |
 
 
 
