@@ -29,6 +29,7 @@ Explore each project individually and view live demos to see them in action:
 | 017 | [Sticky Navigation](017-sticky-navigation)                   | [Live Demo](https://017-sticky-navigation.netlify.app/)  |
 | 018 | [Arithmetic Game](018-arithmetic-game)                   | [Live Demo](https://018-arithmetic-game.netlify.app/)  |
 | 019 | [Double Click Heart](019-double-click-heart)                   | [Live Demo](https://019-double-click-heart.netlify.app/)  |
+| 020 | [Password Generator](020-password generator)                   | [Live Demo](https://020-password generator.netlify.app/)  |
 
 
 
