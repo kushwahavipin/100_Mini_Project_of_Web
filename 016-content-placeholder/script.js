@@ -25,12 +25,12 @@ const animated_bg_texts = document.querySelectorAll(".animated-bg-text");
 
 const getData = () => {
   header.innerHTML =
-    '<img src="https://images.unsplash.com/photo-1610751399547-46ad575447cf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="" />';
-  title.innerHTML = "Lorem ipsum dolor sit amet";
+    '<img src="https://live.staticflickr.com/65535/48143431771_8fced02482_b.jpg" alt="" />';
+  title.innerHTML = "Software Developer";
   excerpt.innerHTML =
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore perferendis";
+    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results.";
   profile_img.innerHTML =
-    '<img src="https://randomuser.me/api/portraits/men/45.jpg" alt="" />';
+    '<img src="https://live.staticflickr.com/65535/52814423850_898ee48df1_w.jpg" alt="" />';
   name.innerHTML = "Vipin Kushwaha";
   date.innerHTML = `${
     monthNames[today.getMonth()]
