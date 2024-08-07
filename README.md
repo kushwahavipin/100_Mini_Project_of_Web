@@ -32,6 +32,9 @@ Explore each project individually and view live demos to see them in action:
 | 020 | [Password Generator](020-password-generator)                   | [Live Demo](https://020-password-generator.netlify.app/)  |
 | 021 | [Note App](021-notes-app)                   | [Live Demo](https://021-notes-app.netlify.app/)  |
 | 022 | [Animated Countdown](022-animated-countdown)                   | [Live Demo](https://022-animated-countdown.netlify.app/)  |
+| 023 | [Hoverboard](023-hoverboard)                   | [Live Demo](https://023-hoverboard.netlify.app/)  |
+| 024 | [Mobile Tab Navigation](024-mobile-tab-navigation)                   | [Live Demo](https://024-mobile-tab-navigation.netlify.app/)  |
+| 025 | [Impress Crush Part-1](025-Impress-crush-part-1)                   | [Live Demo](https://025-Impress-crush-part-1.netlify.app/)  |
 
 
 
